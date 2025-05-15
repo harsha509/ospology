@@ -5,7 +5,7 @@
 
 # 📖 OSPOlogy - The Study of Open Source Management  
 
-✨ **`OSPOlogy` is a platform for the study and open community dialogue about the state of open source management within organizations across various sectors.**  
+✨ **`OSPOlogy` is a comprehensive platform for the study and open community dialogue about the state of open source management within organizations across various sectors and industries.**  
 
 - 💚 [What is OSPOlogy](#what-is-ospology)  
 - 🦺 [Activities and Frameworks](#activities-and-frameworks)  
